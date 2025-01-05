@@ -27,7 +27,7 @@ The heart and soul of the CS50 course is Harvard's very own professor David J. M
 ### 2. Treehouse
 My journey in tech got started at Treehouse with Python. They had a genuinely supportive online community there where I myself sought for assistance and I also gave advice to other students. Overall I helped out a bit over 50 students. It felt so rewarding to get positive feedback from the students I helped!
 
-You can see examples of my answers to questions students asked at the Treehouse Community (Python) at my homepage [avenurme.dev]([https://avenurme.dev](https://www.avenurme.dev/mentoring)).
+You can see examples of my answers to questions students asked at the Treehouse Community (Python) at my homepage [avenurme.dev](https://www.avenurme.dev/mentoring).
 
 ### 3. My Mentees
 I have 3 awesome students (mentees) to mentor. Two of them are from Denmark and one is from Germany. I was reached out by them on Twitter (currently known as X) and as I have experience mentoring students new to coding before, I was happy to jump on this opportunity.
@@ -39,5 +39,5 @@ My awesome mentees are all career shifters, and as I transitioned into tech from
 My mission is to help my mentees make their landing into the tech world as smooth as possible. I help them with their studies and coding assignments, also giving them code reviews. We have our own dedicated Discord channel and we also hold virtual meetings whenever needed.
 
 ## Portfolio
-Check out my work at [avenurme.dev]([https://avenurme.dev](https://www.avenurme.dev/portfolio)).  
+Check out my work at [avenurme.dev](https://www.avenurme.dev/portfolio).  
 The work listed there is an overview of some hobby projects.
