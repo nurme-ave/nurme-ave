@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ave - Frontend Developer.
+# Hi there 👋 I'm Ave - Frontend Developer.
 
 # About Me
 
