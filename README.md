@@ -7,7 +7,7 @@ I'm a certified developer with 7+ years of programming experience. I have gained
 ### Tech Stack
 SvelteKit | React | NextJS | VueJS | JavaScript | Python | Django | SQL | HTML/CSS | Tailwind | Figma | Git
 
-## 📅 #100DaysOfCode Journey
+## 📅 100DaysOfCode Journey
 
 I completed the #100DaysOfCode challenge twice in 2020 and in May 2022 I completed my 3rd round.
 
