@@ -1,5 +1,4 @@
-# Hi there 👋 I'm Ave - Frontend Developer.
-# I build low-carbon websites 🌍🌱🌿.
+# Hi there 👋 I'm Ave - Frontend Developer. I build low-carbon websites 🌍🌱🌿.
 
 ## 👨‍💻 About Me
 
