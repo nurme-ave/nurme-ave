@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a certified developer with 7+ years of programming experience. I have gained my practical knowledge by working in both smaller and larger tech companies (e.g. Telia). I'm dedicated to writing clean code and equally important to me is following the main design principles. I'm passionate about building low-carbon websites from scratch (design, develop & deploy). Oh, and I have 3 awesome mentees :).
+I'm a certified developer & technical trainer with 7+ years of programming experience. I have gained my practical knowledge by working in both smaller and larger tech companies (e.g. Telia). I'm dedicated to writing clean code and equally important to me is following the main design principles. I'm passionate about building low-carbon websites from scratch (design, develop & deploy). Oh, and I have 3 awesome mentees :).
 
 ### Tech Stack
 SvelteKit | React | NextJS | VueJS | JavaScript | Python | Django | SQL | HTML/CSS | Tailwind | Figma | Git
