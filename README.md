@@ -8,7 +8,7 @@ My coding journey began with Python, where I discovered the joy of problem-solvi
 
 Beyond coding, I'm deeply committed to mentoring the next generation of developers. There's something magical about helping someone realize they can reinvent their professional life through code.
 
-When I step away from the screen, I love exploring scenic routes by bicycle - whether outdoors discovering new paths or indoors following virtual routes across iconic bridges over the Atlantic Ocean at sunset, complete with rolling mist banks, or through real countryside. There's something about the rhythm of pedaling that sparks my best ideas.
+When I step away from the screen, I love exploring scenic routes by bicycle - whether outdoors discovering new paths or indoors following virtual routes across iconic bridges over the Atlantic Ocean at sunset, complete with rolling mist banks, or through real countryside. There's something about the rhythm of pedaling that sparks my best ideas. You can find my cycling story here [avenurme.dev](https://www.avenurme.dev/cycling).
 
 ### Tech Stack
 SvelteKit | React | NextJS | JavaScript | Python | Django | SQL | HTML/CSS | Tailwind | Figma | Git
