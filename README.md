@@ -2,7 +2,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a certified developer & technical trainer with 7+ years of programming experience. I have gained my practical knowledge by working in both smaller and larger tech companies (e.g. Telia). I'm dedicated to writing clean code and equally important to me is following the main design principles. I'm passionate about building low-carbon websites from scratch (design, develop & deploy). Oh, and I have 3 awesome mentees :).
+My career shift into tech has been an incredible journey of growth and discovery. From writing my first line of code to becoming a certified developer and technical trainer, I've worked from agile startups to established companies like Telia. But here's what really drives me: creating websites that don't just look beautiful and perform flawlessly - they also leave a lighter footprint on our planet.
+
+My coding journey began with Python, where I discovered the joy of problem-solving through programming. As my passion for web development grew, I naturally gravitated toward React and Next.js, finding the component-based architecture intuitive and powerful. More recently, I've been exploring Svelte, and I'm genuinely excited about its elegant approach to building reactive interfaces with less complexity.
+
+Beyond coding, I'm deeply committed to mentoring the next generation of developers. There's something magical about helping someone realize they can reinvent their professional life through code.
+
+When I step away from the screen, I love exploring scenic routes by bicycle - whether outdoors discovering new paths or indoors following virtual routes across iconic bridges over the Atlantic Ocean at sunset, complete with rolling mist banks, or through real countryside. There's something about the rhythm of pedaling that sparks my best ideas.
 
 ### Tech Stack
 SvelteKit | React | NextJS | VueJS | JavaScript | Python | Django | SQL | HTML/CSS | Tailwind | Figma | Git
