@@ -56,7 +56,7 @@ Every cohort has its own personality. Some groups are chatty and collaborative, 
 
 The emails that follow are pure gold. "I got the job!" "I shipped my first feature!" "Thank you for believing in me when I didn't believe in myself." Those messages remind me why I fell in love with mentoring in the first place: it's not just about teaching code - it's about unlocking human potential.
 
-## Cycling Adventures
+## 🚴 Cycling Adventures
 Who knew that getting a smart trainer in June 2025 would turn my home into a portal to the world? From debugging React components to conquering virtual Swiss lakesides, my Tacx trainer has become the perfect complement to my coding routine.
 
 My longest adventure so far? 32.15 km through the Pad Riew Canals (Thailand) - a ride that taught me the same lesson as tackling complex coding challenges: pace yourself, enjoy the journey, and trust that persistence pays off. Some of my best debugging breakthroughs have actually happened during long climbs through those virtual routes.
