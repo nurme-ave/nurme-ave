@@ -56,15 +56,16 @@ Every cohort has its own personality. Some groups are chatty and collaborative, 
 
 The emails that follow are pure gold. "I got the job!" "I shipped my first feature!" "Thank you for believing in me when I didn't believe in myself." Those messages remind me why I fell in love with mentoring in the first place: it's not just about teaching code - it's about unlocking human potential.
 
-### 4. Cycling Adventures
+## Cycling Adventures
 Who knew that getting a smart trainer in June 2025 would turn my home into a portal to the world? From debugging React components to conquering virtual Swiss lakesides, my Tacx trainer has become the perfect complement to my coding routine.
-
-The numbers tell an incredible story for a fresh newbie: 64 rides, 978.4 km of virtual adventures, and 5,154 meters of elevation conquered. But beyond the stats, it's about the rhythm - the same consistency that got me through three rounds of #100DaysOfCode now powers me through Thai canals and Norwegian coastal roads.
 
 My longest adventure so far? 32.15 km through the Pad Riew Canals (Thailand) - a ride that taught me the same lesson as tackling complex coding challenges: pace yourself, enjoy the journey, and trust that persistence pays off. Some of my best debugging breakthroughs have actually happened during long climbs through those virtual routes.
 
 Every route is a new story: racing through Milano time trials, climbing Swiss mountains, exploring Belgian cobblestones that pro cyclists know by heart. It turns out that cycling and coding share the same fundamental truth - both require showing up consistently, especially when motivation is low.
 
 ## 💼 Portfolio
-Check out my work at [avenurme.dev](https://www.avenurme.dev/projects).  
-The work listed there is an overview of some hobby/real-world projects.
+I've built bespoke internal automation solutions designed for specific businesses that transform tedious manual processes into streamlined workflows.
+Check them out at [avenurme.dev](https://www.avenurme.dev/business-tools).
+
+I also love building games as in my opinion this is a great way to learn a new framework or a new technology. Check my games out at [avenurme.dev](https://www.avenurme.dev/games).  
+
