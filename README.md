@@ -4,11 +4,11 @@
 
 My career shift into tech has been an incredible journey of growth and discovery. From writing my first line of code to becoming a certified developer and technical trainer, I've worked from agile startups to established companies like Telia. But here's what really drives me: creating websites that don't just look beautiful and perform flawlessly - they also leave a lighter footprint on our planet.
 
-My coding journey began with Python, where I discovered the joy of problem-solving through programming. As my passion for web development grew, I naturally gravitated toward React and Next.js, finding the component-based architecture intuitive and powerful. More recently, I've been exploring Svelte, and I'm genuinely excited about its elegant approach to building reactive interfaces with less complexity.
+My coding journey began with Python, where I discovered the joy of problem-solving through programming. As I dove deeper into web development, Next.js became my go-to framework - it's what I reach for daily to build fast, scalable applications. The React-based architecture feels intuitive and powerful, while Next.js adds the performance optimizations and developer experience that make complex projects manageable. More recently, I've been exploring Svelte, and I'm genuinely excited about its elegant approach to building reactive interfaces with less complexity.
 
-Beyond coding, I'm deeply committed to mentoring the next generation of developers. There's something magical about helping someone realize they can reinvent their professional life through code.
+Want to see what I've been building? Play my Games to experience the interactive projects that shaped my developer journey, or explore my Business Tools where I've created bespoke automation solutions that transform tedious manual processes into streamlined workflows.
 
-When I step away from the screen, I love exploring scenic routes by bicycle - whether outdoors discovering new paths or indoors following virtual routes across iconic bridges over the Atlantic Ocean at sunset, complete with rolling mist banks, or through real countryside. There's something about the rhythm of pedaling that sparks my best ideas. You can find my full cycling story and stats here [avenurme.dev](https://www.avenurme.dev/cycling).
+Beyond coding, I'm deeply committed to mentoring the next generation of developers. When I step away from the screen, I love exploring scenic routes by bicycle - whether outdoors discovering new paths or indoors following virtual routes all over the world. You can find my full cycling story and stats here [avenurme.dev](https://www.avenurme.dev/cycling).
 
 ### Tech Stack
 SvelteKit | React | NextJS | JavaScript | Python | Django | SQL | HTML/CSS | Tailwind | Figma | Git
@@ -55,6 +55,15 @@ There's something magical about watching 25 different stories unfold simultaneou
 Every cohort has its own personality. Some groups are chatty and collaborative, others are quietly determined. But they all share that hunger to transform their lives through code. When each course ends, there's always a bittersweet moment - we've become a community, and saying goodbye is never easy.
 
 The emails that follow are pure gold. "I got the job!" "I shipped my first feature!" "Thank you for believing in me when I didn't believe in myself." Those messages remind me why I fell in love with mentoring in the first place: it's not just about teaching code - it's about unlocking human potential.
+
+### 4. Cycling Adventures
+Who knew that getting a smart trainer in June 2025 would turn my home into a portal to the world? From debugging React components to conquering virtual Swiss lakesides, my Tacx trainer has become the perfect complement to my coding routine.
+
+The numbers tell an incredible story for a fresh newbie: 64 rides, 978.4 km of virtual adventures, and 5,154 meters of elevation conquered. But beyond the stats, it's about the rhythm - the same consistency that got me through three rounds of #100DaysOfCode now powers me through Thai canals and Norwegian coastal roads.
+
+My longest adventure so far? 32.15 km through the Pad Riew Canals (Thailand) - a ride that taught me the same lesson as tackling complex coding challenges: pace yourself, enjoy the journey, and trust that persistence pays off. Some of my best debugging breakthroughs have actually happened during long climbs through those virtual routes.
+
+Every route is a new story: racing through Milano time trials, climbing Swiss mountains, exploring Belgian cobblestones that pro cyclists know by heart. It turns out that cycling and coding share the same fundamental truth - both require showing up consistently, especially when motivation is low.
 
 ## 💼 Portfolio
 Check out my work at [avenurme.dev](https://www.avenurme.dev/projects).  
